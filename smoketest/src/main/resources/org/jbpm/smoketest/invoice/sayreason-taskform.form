@@ -1,0 +1,39 @@
+
+<form id="1234398788">
+<property name="subject" value=""/>
+<property name="name" value="sayreason-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="187240470">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value=""/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value=""/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;dequot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;enquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;esquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;frquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;jaquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;ptquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;quot;zhquot;,quot;&lt;p&gt;&lt;strong&gt;This invoice cannot be approved. Please add a reasons:&lt;/strong&gt;&lt;/p&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name="reason" type="InputTextArea" id="888407375">
+<property name="fieldRequired" value="false"/>
+<property name="height" value="10"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="100"/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="in_reason"/>
+<property name="outputBinding" value="out_reason"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="in_reason" name="#B29FE4" type="basicType" outId="out_reason" value="java.lang.String" id="reason"/>
+</form>
